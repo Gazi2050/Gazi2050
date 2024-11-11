@@ -1,4 +1,4 @@
-# 💫 About Me :
+# ☕ About Me :
  👋 Hi there! I'm Gazi, a full-stack developer with a passion for creating innovative web solutions. From crafting beautiful front-end interfaces using HTML, CSS, and JavaScript to building robust back-end systems with Node.js, MongoDB, and Express, I love working on all aspects of the development process. With experience in TypeScript, Tailwind, Bootstrap, and React, I thrive on tackling complex challenges and delivering high-quality results. Let's collaborate and bring your ideas to life!
 
 # 💻 Tech Stack:
