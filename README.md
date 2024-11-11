@@ -3,7 +3,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-    <img width="900" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase" alt="HTML"/> 
+    <img width="900" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,firebase,npm,git,vscode" alt="HTML"/> 
 </p>
 
 # 📊 GitHub Stats:
