@@ -3,14 +3,10 @@
 
 With experience in **TypeScript**, **Tailwind**, **Bootstrap**, and **React**, I thrive on tackling complex challenges and delivering high-quality results. My goal is to build a better environment and supportive community for developers, fostering spaces where we can grow, learn, and create together. Let’s collaborate and bring your ideas to life!
 
----
-
 # 💻 Tech Stack:
 <p align="center">
     <img width="900" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,firebase,npm,git,vscode" alt="Tech Stack" />
 </p>
-
----
 
 # 📊 GitHub Stats:
 <p align="center">
