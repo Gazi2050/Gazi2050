@@ -8,14 +8,14 @@
 
 # 💻 Tech Stack :
 <p align="center">
-    <img width="550" src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Tech Stack" />
-    <img width="650" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs,express" alt="Tech Stack" />
-    <img width="750" src="https://skillicons.dev/icons?i=mongodb,firebase,npm,git,vscode" alt="Tech Stack" />
+    <img width="450" src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Tech Stack" />
+    <img width="600" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs,express" alt="Tech Stack" />
+    <img width="680" src="https://skillicons.dev/icons?i=mongodb,firebase,npm,git,vscode" alt="Tech Stack" />
 </p>
 
 # 📊 GitHub Stats :
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=10" width="650" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=10" width="550" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazi2050&theme=dark&hide_border=true&border_radius=10&layout=compact" width="450"  alt="Top Languages" />
 </p>
 
