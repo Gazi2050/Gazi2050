@@ -16,7 +16,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="70" />  GitHub Stats :
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=10" width="800" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=Gazi2050&count_private=true&show_icons=true&theme=dark&hide_border=true&&border_radius=10&custom_title=GitHub%20Stats" width="500"  alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazi2050&theme=dark&hide_border=true&border_radius=10&layout=compact" width="450"  alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gazi2050&count_private=true&show_icons=true&theme=dark&hide_border=true&&border_radius=10&custom_title=GitHub%20Stats" width="450"  alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazi2050&theme=dark&hide_border=true&border_radius=10&layout=compact" width="400"  alt="Top Languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gazi2050&theme=dark&hide_border=true&" width="850"  alt="Github Graph" />
 </p>
