@@ -18,5 +18,7 @@
 <img src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=10" width="550" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazi2050&theme=dark&hide_border=true&border_radius=10&layout=compact" width="480"  alt="Top Languages" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gazi2050&theme=blueberry" width="480"  alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gazi2050&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" width="480"  alt="Top Languages" />
+    
     
 </p>
