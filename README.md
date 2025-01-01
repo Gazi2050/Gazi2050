@@ -14,12 +14,10 @@
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="70" />  GitHub Stats :
-
+<p align="center"></p>
 <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=12" width="750" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=Gazi2050&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=12&custom_title=GitHub%20Stats" width="460"  alt="Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazi2050&theme=dark&hide_border=true&layout=compact&border_radius=12" width="380" alt="Top Languages" />
 </div>
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=12" width="750" alt="GitHub Streak" /></p>
-
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gazi2050&theme=dark&hide_border=true&border_radius=20" width="850"  alt="Github Graph" /></p>
