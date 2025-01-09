@@ -14,7 +14,7 @@
     <img width="500" src="https://skillicons.dev/icons?i=firebase,mongodb,npm,git,vscode" alt="Tech Stack" />
 </p>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="70" />  GitHub Stats :
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="70" /> Statistics :
 <div align="center"><img  src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=12" width="680" alt="GitHub Streak" /></div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gazi2050&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=12&custom_title=GitHub%20Stats" width="450" alt="Github Stats" />
