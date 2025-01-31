@@ -10,7 +10,9 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="80"  /> Tech Stack :
 <p align="center">
     <img width="500" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs" alt="Tech Stack" />
-    <img width="600" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,remix,svelte,express" alt="Tech Stack" />
+    <br/>
+    <img width="700" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,remix,svelte,vitest,express" alt="Tech Stack" />
+    <br/>
     <img width="500" src="https://skillicons.dev/icons?i=firebase,mongodb,npm,git,vscode" alt="Tech Stack" />
 </p>
 
