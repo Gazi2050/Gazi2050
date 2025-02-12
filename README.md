@@ -1,19 +1,22 @@
-# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="70" /> About Me :
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> Hi there! I'm **Gazi**, a **MERN Stack Developer** passionate about creating innovative web solutions.
-> ### From crafting beautiful front-end interfaces using **HTML**, **CSS**, and **JavaScript** to building robust back-end systems with **Node.js**, **MongoDB**, and **Express**, I love working on all aspects of the development process. 
-> ### With experience in **TypeScript**, **Tailwind**, **Bootstrap**, and **React**, I thrive on tackling complex challenges and delivering high-quality results. My goal is to build a better environment and supportive community for developers, fostering spaces where we can grow, learn, and create together. Let’s collaborate and bring your ideas to life!
+# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="70" /> Hi, I'm Gazi!
+> ### **MERN Stack Developer | JavaScript Enthusiast**
+> 
+I’m a JavaScript developer specializing in the MERN stack, passionate about writing clean, efficient TypeScript code. With hands-on experience in the React ecosystem, I focus on crafting intuitive user interfaces and seamless functionality. I’m also well-versed in Git and enjoy collaborating in team environments.
 
+I’m passionate about creating open-source web solutions that help the developer community grow. Building tools that solve real-world challenges excites me. I’m always exploring new technologies, mastering modern patterns, and evolving as a developer.
+
+For me, development is about building meaningful solutions and fostering a supportive space for developers to learn, grow, and create together. Let’s shape a better future for the developer community!
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4523022b-8d56-4765-a640-bf9e5b2d7680" width="500" alt="OctaCat" />
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="80"  /> Tech Stack :
 <p align="center">
-    <img width="500" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs" alt="Tech Stack" />
+    <img width="450" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs" alt="Tech Stack" />
     <br/>
-    <img width="700" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,remix,svelte,vitest,express" alt="Tech Stack" />
+    <img width="700" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,next,remix,svelte,vitest,express" alt="Tech Stack" />
     <br/>
-    <img width="500" src="https://skillicons.dev/icons?i=firebase,mongodb,npm,git,vscode" alt="Tech Stack" />
+    <img width="450" src="https://skillicons.dev/icons?i=firebase,mongodb,npm,git,vscode" alt="Tech Stack" />
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="70" /> Statistics :
