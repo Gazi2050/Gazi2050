@@ -14,7 +14,7 @@ For me, development is about building meaningful solutions and fostering a suppo
 <p align="center">
     <img width="500" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs" alt="Tech Stack" />
     <br/>
-    <img width="500" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,svelte,vitest,express" alt="Tech Stack" />
+    <img width="590" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,svelte,vitest,express" alt="Tech Stack" />
     <br/>
     <img width="500" src="https://skillicons.dev/icons?i=firebase,mongodb,npm,git,postman" alt="Tech Stack" />
 </p>
