@@ -7,7 +7,7 @@
 
 ### For me, development is about building meaningful solutions and fostering a supportive space for developers to learn, grow, and create together. Let’s shape a better future for the developer community!
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4523022b-8d56-4765-a640-bf9e5b2d7680" width="500" alt="OctaCat" />
+<img src="https://github.com/user-attachments/assets/4523022b-8d56-4765-a640-bf9e5b2d7680" width="550" alt="OctaCat" />
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="80"  /> Tech Stack :
