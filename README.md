@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="70" /> Hi, I'm Gazi!
 > ## **MERN Stack Developer | JavaScript Enthusiast**
 > 
-### I’m a JavaScript developer specializing in the MERN stack, passionate about writing clean, efficient TypeScript code. With hands-on experience in the React ecosystem, I focus on crafting intuitive user interfaces and seamless functionality. I’m also well-versed in Git ### and enjoy collaborating in team environments.
+### I’m a JavaScript developer specializing in the MERN stack, passionate about writing clean, efficient TypeScript code. With hands-on experience in the React ecosystem, I focus on crafting intuitive user interfaces and seamless functionality. I’m also well-versed in Git and enjoy collaborating in team environments.
 
 ### I’m passionate about creating open-source web solutions that help the developer community grow. Building tools that solve real-world challenges excites me. I’m always exploring new technologies, mastering modern patterns, and evolving as a developer.
 
