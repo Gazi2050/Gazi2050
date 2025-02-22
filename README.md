@@ -5,7 +5,7 @@
 
 ### I’m passionate about creating open-source web solutions that help the developer community grow. Building tools that solve real-world challenges excites me. I’m always exploring new technologies, mastering modern patterns, and evolving as a developer.
 
-### For me, development is about building meaningful solutions and fostering a supportive space for developers to learn, grow, and create together. Let’s shape a better future for the developer community!
+### For me, development is about building meaningful solutions and fostering a supportive space for developers to learn, grow, and create together. Let’s shape a better future for the developer community.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4523022b-8d56-4765-a640-bf9e5b2d7680" width="550" alt="OctaCat" />
 </p>
