@@ -19,9 +19,9 @@
 </p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="70" /> Statistics :
-<div align="center"><img  src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=12" width="680" alt="GitHub Streak" /></div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gazi2050&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=12&custom_title=GitHub%20Stats" width="450" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazi2050&theme=dark&hide_border=true&layout=compact&border_radius=12" width="390" height="187" alt="Top Languages" />
+<div align="center"> 
+    <img src="https://streak-stats.demolab.com?user=Gazi2050&theme=dark&hide_border=true&border_radius=12" width="700" alt="GitHub Streak" /> 
+</div> 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gazi2050&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=12&custom_title=Gazi's%20GitHub%20Stats" width="400" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazi2050&theme=dark&hide_border=true&layout=compact&border_radius=12" width="300" alt="Top Languages" /> 
 </div>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gazi2050&theme=dark&hide_border=true&border_radius=20" width="750"  alt="Github Graph" /></p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gazi2050&theme=dark&hide_border=true&border_radius=20" width="700" alt="GitHub Graph" /> </p>
