@@ -1,10 +1,8 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="70" /> Hi, I'm Gazi!
-> ## **Proficient in MERN Stack | JavaScript Enthusiast**
-### I’m a Frontend Developer specializing in the MERN stack, passionate about writing clean, efficient TypeScript code. With hands-on experience in the React ecosystem, I focus on crafting intuitive user interfaces and seamless functionality. I’m also well-versed in Git and enjoy collaborating in team environments.
+> ## **Frontend Developer | JavaScript Enthusiast**
+> ### I’m a Frontend Developer passionate about writing clean ` JavaScript ` and ` TypeScript ` code, building intuitive UIs with ` React ` and ` Svelte `. I thrive in collaborative environments, contribute to open-source, and love solving real-world challenges. Always eager to learn, I explore new technologies to create meaningful solutions and support the developer community.
 
-### I’m passionate about creating open-source web solutions that help the developer community grow. Building tools that solve real-world challenges excites me. I’m always exploring new technologies, mastering modern patterns, and evolving as a developer.
 
-### For me, development is about building meaningful solutions and fostering a supportive space for developers to learn, grow, and create together. Let’s shape a better future for the developer community.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4523022b-8d56-4765-a640-bf9e5b2d7680" width="550" alt="OctaCat" />
 </p>
