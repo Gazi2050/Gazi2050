@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="70" /> Hi, I'm Gazi!
+# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="70" /> Hi, I'm Gazi
 > ## **Frontend Developer | JavaScript Enthusiast**
 > ### I’m a Frontend Developer passionate about writing clean ` JavaScript ` and ` TypeScript ` code, building intuitive UIs with ` React ` and ` Svelte `. I thrive in collaborative environments, contribute to open-source, and love solving real-world challenges. Always eager to learn, I explore new technologies to create meaningful solutions and support the developer community.
 
