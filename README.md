@@ -4,14 +4,6 @@
 > ## **Frontend Developer | JavaScript Enthusiast**
 > ### I’m a Frontend Developer passionate about writing clean ` JavaScript ` and ` TypeScript ` code, building intuitive UIs with ` React ` and ` Svelte `. I thrive in collaborative environments, contribute to open-source, and love solving real-world challenges. Always eager to learn, I explore new technologies to create meaningful solutions and support the developer community.
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="80"  /> Tech Stack :
-<p align="center">
-    <img width="500" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs" alt="Tech Stack" />
-    <br/>
-    <img width="600" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,svelte,vitest,express" alt="Tech Stack" />
-    <br/>
-    <img width="500" src="https://skillicons.dev/icons?i=firebase,mongodb,npm,git,postman" alt="Tech Stack" />
-</p>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="70" /> Statistics :
 <div align="center"> 
