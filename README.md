@@ -6,4 +6,4 @@
 <br><br>
 
 # 📊 Statistics :
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact&hide_border=true&custom_title=Contribution%20graph"/>
