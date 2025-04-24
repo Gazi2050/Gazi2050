@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/f08a3eff-3b18-4267-97e0-209a01bf8c9d" alt="cover" />
+![githubCover](https://github.com/user-attachments/assets/a395d715-996a-47cc-bb1b-d4544b2571ef)
+
+<br><br>
 
 # 👋 Hi, I'm Gazi
 > ### I’m a Frontend Developer passionate about writing clean ` JavaScript ` and ` TypeScript ` code, building intuitive UIs with ` React ` and ` Svelte `. I thrive in collaborative environments, contribute to open-source, and love solving real-world challenges. Always eager to learn, I explore new technologies to create meaningful solutions and support the developer community.
