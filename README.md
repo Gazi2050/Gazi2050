@@ -4,4 +4,4 @@
 <img src="https://github.com/user-attachments/assets/a395d715-996a-47cc-bb1b-d4544b2571ef" alt="cover"/>
 
 # 📊 Statistics :
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact&hide_border=true&custom_title=Contribution%20graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20graph"/>
