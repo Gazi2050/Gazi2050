@@ -4,5 +4,5 @@
 <img src="https://github.com/user-attachments/assets/a395d715-996a-47cc-bb1b-d4544b2571ef" alt="cover"/>
 
 # 📊 Statistics :
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Gazi2050&theme=github-dark&hide_border=true&card_width=1000" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Gazi2050&theme=github-dark&hide_border=true&card_width=1000&card_height=300" alt="GitHub Streak" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20graph"/>
