@@ -6,8 +6,7 @@
 
 </div>
 
->### I’m a  Software Developer passionate about writing clean ` JavaScript ` and ` TypeScript ` code, building intuitive UIs with ` React ` and ` Svelte `. I thrive in collaborative environments, contribute to open-source, and love solving real-world challenges. Always eager to learn, I explore new technologies to create meaningful solutions and support the developer community.
-
+>### I’m a Software Developer skilled in `JavaScript`, `TypeScript`, and `Go`. I build clean, responsive UIs using `React`, `Svelte`. Experienced in Agile teams, monorepos, and API integration. I'm an open-source contributor passionate about solving real-world problems and constantly exploring new technologies to build meaningful solutions.
 # 📊 Statistics :
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Gazi2050&theme=github-dark&hide_border=true" alt="GitHub Streak" />
