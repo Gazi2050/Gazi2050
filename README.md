@@ -12,4 +12,3 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Gazi2050&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20graph"/>
-
