@@ -11,5 +11,6 @@
 # 📊 Statistics :
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Gazi2050&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&theme=blue-green&bg_color=0d1117&title_color=0CF574" alt="GitHub Streak" />
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20graph"/>
