@@ -9,7 +9,7 @@
 >### I’m a Software Developer skilled in `JavaScript`, `TypeScript`, and `Go`. I build clean, responsive UIs using `React`, `Svelte`. Experienced in Agile teams, monorepos, and API integration. I'm an open-source contributor passionate about solving real-world problems and constantly exploring new technologies to build meaningful solutions.
 
 # 📊 Statistics :
-<div align="center">
+<div align="flex">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Gazi2050&theme=github-dark&hide_border=true" alt="GitHub Streak" />
   <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&theme=blue-green&bg_color=0d1117&title_color=0CF574" alt="GitHub Streak" />
 </div>
