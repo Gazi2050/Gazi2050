@@ -5,7 +5,7 @@
 <picture>
   <!-- Dark Mode -->
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&color=39D353&lines=Software+Developer;Open+Source+Contributor;Problem+Solver">
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&color=39D353&lines=Software+Developer;OpenSource+Contributor;Problem+Solver">
   <!-- Light Mode -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&color=2C9AB7&lines=Software+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG">
 </picture>
