@@ -12,7 +12,7 @@
 
 </div>
 
->### I’m a Software Developer skilled in `JavaScript`, `TypeScript`, and `Go`. I build clean, responsive UIs using `React`, `Svelte`. Experienced in Agile teams, monorepos, and API integration. I'm an open-source contributor passionate about solving real-world problems and constantly exploring new technologies to build meaningful solutions.
+>### I’m a Software Developer skilled in `JavaScript` and `TypeScript`. I build clean, responsive UIs using `React`, `Svelte`. Experienced in Agile teams, monorepos, and API integration. I'm an open-source contributor passionate about solving real-world problems and constantly exploring new technologies to build meaningful solutions.
 
 # 📊 Statistics :
 
