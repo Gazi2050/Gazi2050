@@ -14,8 +14,6 @@
 
 > ### 💻 I am a backend developer working with `TypeScript`, `Go`, and `Python`. I like building reliable systems, clean APIs, and handy CLI tools. I focus on clean code, learning by building, and experimenting to make developer life easier.
 
-# 📊 Statistics
-
 <p align="center">
   <picture>
     <!-- Dark Mode -->
