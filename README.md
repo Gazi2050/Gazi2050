@@ -2,22 +2,17 @@
 
 # ⚡ `GAZI NAHIAN` ⚡
 
-<picture>
-  <!-- Dark Mode -->
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&color=39D353&lines=Software+Developer;OpenSource+Contributor;Problem+Solver"
-  >
-  <!-- Light Mode -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&color=2C9AB7&lines=Software+Developer;Open+Source+Contributor;Problem+Solver" 
-    alt="Typing SVG"
-  >
-</picture>
-
 </div>
 
-> ### 💻 I’m a Software Developer skilled in `JavaScript` and `TypeScript`. I build clean, responsive UIs using `React` and `Svelte`. Experienced in Agile teams, monorepos, and API integration. I'm an open-source contributor passionate about solving real-world problems and constantly exploring new technologies to build meaningful solutions.
+<div align="center">
+  <img 
+    src="https://files.catbox.moe/p0exv4.png" 
+    alt="Profile Image"
+    style="width:220px; height:220px; border-radius:50%;" 
+  />
+</div>
+
+> ### 💻 I am a backend developer working with `TypeScript`, `Go`, and `Python`. I like building reliable systems, clean APIs, and handy CLI tools. I focus on clean code, learning by building, and experimenting to make developer life easier.
 
 # 📊 Statistics
 
