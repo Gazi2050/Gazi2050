@@ -6,9 +6,9 @@
 
 <div align="center">
   <img 
-    src="https://files.catbox.moe/p0exv4.png" 
+    src="https://files.catbox.moe/yangxz.png" 
     alt="Profile Image"
-    style="width:220px; height:220px; border-radius:50%;" 
+    style="width:300px; height:300px; border-radius:50%;" 
   />
 </div>
 
