@@ -12,7 +12,7 @@
   />
 </div>
 
-> ### 💻 I am a backend developer working with `TypeScript`, `Go`, and `Python`. I like building reliable systems, clean APIs, and handy CLI tools. I focus on clean code, learning by building, and experimenting to make developer life easier.
+> ### 💻 I am a backend developer working with `TypeScript` and `Go`. I like building reliable systems, clean APIs, and handy CLI tools. I focus on clean code, learning by building, and experimenting to make developer life easier.
 
 <p align="center">
   <picture>
