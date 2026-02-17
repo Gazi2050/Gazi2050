@@ -6,13 +6,13 @@
 
 <div align="center">
   <img 
-    src="https://files.catbox.moe/yangxz.png" 
+    src="https://files.catbox.moe/i80gln.png" 
     alt="Profile Image"
     style="width:300px; height:300px; border-radius:50%;" 
   />
 </div>
 
-> ### 💻 I am a backend developer working with `TypeScript` and `Go`. I like building reliable systems, clean APIs, and handy CLI tools. I focus on clean code, learning by building, and experimenting to make developer life easier.
+> ### 💻 I’m a software developer working on web, native apps, and CLI tools. I like turning ideas into simple, clean, and reliable products by building solid systems, clean APIs, and handy tools. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.
 
 <p align="center">
   <picture>
