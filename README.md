@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ `GAZI NAHIAN` ⚡
+# `Gazi Nahian`
 
 </div>
 
