@@ -19,12 +19,12 @@
     <!-- Dark Mode -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Gazi2050&show_icons=true&count_private=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=00000000&ring_color=39D353&card_width=495"
+      srcset="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&count_private=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=00000000&ring_color=39D353&card_width=495"
     />
     <!-- Light Mode -->
     <img 
       height="180em" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gazi2050&show_icons=true&count_private=true&hide_border=true&title_color=2C9AB7&icon_color=2C9AB7&text_color=2C9AB7&bg_color=00000000&ring_color=2C9AB7&card_width=495" 
+      src="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&count_private=true&hide_border=true&title_color=2C9AB7&icon_color=2C9AB7&text_color=2C9AB7&bg_color=00000000&ring_color=2C9AB7&card_width=495" 
       style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
     />
   </picture>
@@ -33,12 +33,12 @@
     <!-- Dark Mode -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=39D353&text_color=39D353&bg_color=00000000"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=39D353&text_color=39D353&bg_color=00000000"
     />
     <!-- Light Mode -->
     <img 
       height="180em" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=2C9AB7&text_color=2C9AB7" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=2C9AB7&text_color=2C9AB7" 
       style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
     />
   </picture>
