@@ -1,6 +1,4 @@
-<div align="center">
-# `Gazi Nahian`
-</div>
+<h1 align="center"><b><code>Gazi Nahian</code></b></h1>
 <div align="center">
   <img 
     src="https://files.catbox.moe/i80gln.png" 
@@ -8,7 +6,10 @@
     style="width:300px; height:300px; border-radius:50%;" 
   />
 </div>
-> ### 💻 I’m a software developer working on web, native apps, and CLI tools. I like turning ideas into simple, clean, and reliable products by building solid systems, clean APIs, and handy tools. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.
+
+<blockquote>
+  <h3>💻 I’m a software developer working on web, native apps, and CLI tools. I like turning ideas into simple, clean, and reliable products by building solid systems, clean APIs, and handy tools. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
+</blockquote>
 <p align="center">
   <picture>
     <!-- Dark Mode -->
