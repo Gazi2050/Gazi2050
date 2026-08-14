@@ -1,9 +1,6 @@
 <div align="center">
-
 # `Gazi Nahian`
-
 </div>
-
 <div align="center">
   <img 
     src="https://files.catbox.moe/i80gln.png" 
@@ -11,24 +8,21 @@
     style="width:300px; height:300px; border-radius:50%;" 
   />
 </div>
-
 > ### 💻 I’m a software developer working on web, native apps, and CLI tools. I like turning ideas into simple, clean, and reliable products by building solid systems, clean APIs, and handy tools. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.
-
 <p align="center">
   <picture>
     <!-- Dark Mode -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&count_private=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=00000000&ring_color=39D353&card_width=495"
+      srcset="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=00000000&ring_color=39D353&card_width=495"
     />
     <!-- Light Mode -->
     <img 
       height="180em" 
-      src="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&count_private=true&hide_border=true&title_color=2C9AB7&icon_color=2C9AB7&text_color=2C9AB7&bg_color=00000000&ring_color=2C9AB7&card_width=495" 
+      src="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&hide_border=true&title_color=2C9AB7&icon_color=2C9AB7&text_color=2C9AB7&bg_color=00000000&ring_color=2C9AB7&card_width=495" 
       style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
     />
   </picture>
-
   <picture>
     <!-- Dark Mode -->
     <source 
@@ -43,9 +37,7 @@
     />
   </picture>
 </p>
-
 <div align="center">
-
 <!-- Contribution Graph -->
 <picture>
   <!-- Dark Mode -->
@@ -60,5 +52,4 @@
     style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
   />
 </picture>
-
 </div>
