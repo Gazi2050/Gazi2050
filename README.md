@@ -2,24 +2,24 @@
   <img 
     src="https://files.catbox.moe/vlh4cv.png" 
     alt="Profile Image"
-    style="width:400px; height:400px; border-radius:50%;" 
+    style="width:360px; height:360px; border-radius:50%;" 
   />
 </div>
 <p align="center">
   <a href="mailto:gazinahian.dev@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="60" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="60" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/gazi_2050" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="60" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/gazi09/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="60" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="50" />
   </a>
 </p>
 <blockquote>
