@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://gazinahian.vercel.app" target="_blank">
     <img 
-    src="https://files.catbox.moe/vlh4cv.png" 
+    src="https://files.catbox.moe/rs7udk.jpg" 
     alt="Profile Image"
-    style="width:360px; height:360px; border-radius:50%;" 
   />
   </a>
 </div>
