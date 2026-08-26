@@ -53,7 +53,7 @@
     />
     <!-- Light Mode -->
     <img 
-      height="200em" 
+      height="190em" 
       src="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&hide_border=true&title_color=2C9AB7&icon_color=2C9AB7&text_color=2C9AB7&bg_color=00000000&ring_color=2C9AB7&card_width=495" 
       style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
     />
@@ -66,7 +66,7 @@
     />
     <!-- Light Mode -->
     <img 
-      height="200em" 
+      height="190em" 
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=2C9AB7&text_color=2C9AB7" 
       style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
     />
