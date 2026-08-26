@@ -43,9 +43,9 @@
 
 ### Others
 
-| Postman | Git | PNPM | Bash | Google Cloud | Cloudflare | Zed | Obsidian |
-|:-------:|:---:|:----:|:----:|:------------:|:----------:|:--------:|:---:|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=zed" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian" width="60" /> |
+| n8n | Postman | Git | PNPM | Bash | Google Cloud | Cloudflare | Zed | Obsidian |
+|:---:|:-------:|:---:|:----:|:----:|:------------:|:----------:|:---:|:--------:|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=zed" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian" width="60" /> |
 </div>
 
 <h2 align="center">📊 Activitys</h2>
