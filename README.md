@@ -5,7 +5,6 @@
     style="width:400px; height:400px; border-radius:50%;" 
   />
 </div>
-
 <p align="center">
   <a href="mailto:gazinahian.dev@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="65" />
@@ -23,13 +22,10 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height="65" />
   </a>
 </p>
-
 <blockquote>
-  <h2>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h2>
+  <h3>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
 </blockquote>
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" height="60" />
 </p>
@@ -45,6 +41,8 @@
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,n8n,git,cloudflare,linux&perline=5" height="60" />
 </p>
+
+<h2 align="center">📊 Activitys</h2>
 
 <p align="center">
   <picture>
