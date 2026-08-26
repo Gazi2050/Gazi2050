@@ -1,9 +1,11 @@
 <div align="center">
-  <img 
+  <a href="https://gazinahian.vercel.app" target="_blank">
+    <img 
     src="https://files.catbox.moe/vlh4cv.png" 
     alt="Profile Image"
     style="width:360px; height:360px; border-radius:50%;" 
   />
+  </a>
 </div>
 <p align="center">
   <a href="mailto:gazinahian.dev@gmail.com">
