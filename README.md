@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://gazinahian.vercel.app" target="_blank">
     <img 
-    src="https://files.catbox.moe/rs7udk.jpg" 
+    src="https://files.catbox.moe/8izci0.jpg" 
     alt="Profile Image"
   />
   </a>
