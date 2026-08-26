@@ -25,7 +25,7 @@
 </p>
 
 <blockquote>
-  <h3>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
+  <h2>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h2>
 </blockquote>
 
 <h3 align="center">🛠️ Tech Stack</h3>
