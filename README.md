@@ -20,21 +20,33 @@
 </blockquote>
 
 <h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" width="60" />
-</p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs&perline=2" width="120" />
-</p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,svelte,expo&perline=3" width="180" />
-</p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,fiber,mongodb,postgres&perline=4" width="240" />
-</p>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,n8n,git,cloudflare,ubuntu&perline=5" width="300" />
-</p>
+
+<div align="center">
+  
+### Languages & Runtimes
+
+| TypeScript | Node.js | Bun | Go
+|:----------:|:--:|:-------:|:---:|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=bun" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=go" width="60" />
+
+### Frontend
+
+| React | Next.js | Svelte | Expo | Tauri | Tailwind | Shadcn | GSAP | Vitest | Figma |
+|:-----:|:-------:|:------:|:----:|:-----:|:--------:|:------:|:----:|:------:|:-----:|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=svelte" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=tauri" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="60" /> |
+
+### Backend
+
+| Express | Hono | Nest.js | GraphQL | Jest | MongoDB | Mongoose | PostgreSQL | Drizzle |
+|:-------:|:----:|:-------:|:-------:|:----:|:-------:|:--------:|:----------:|:-------:|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=hono" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=jest" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" width="60" /> |
+
+### Others
+
+| Postman | Git | PNPM | Bash | Google Cloud | Cloudflare | Zed | Obsidian |
+|:-------:|:---:|:----:|:----:|:------------:|:----------:|:--------:|:---:|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=zed" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian" width="60" /> |
+</div>
 
 <h2 align="center">📊 Activitys</h2>
 <p align="center">
