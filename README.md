@@ -7,19 +7,19 @@
 </div>
 <p align="center">
   <a href="mailto:gazinahian.dev@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="65" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="65" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/gazi_2050" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" height="65" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/gazi09/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height="65" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="60" />
   </a>
 </p>
 <blockquote>
@@ -27,19 +27,19 @@
 </blockquote>
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" height="60" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" width="60" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs&perline=2" height="60" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs&perline=2" width="120" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,svelte,expo&perline=3" height="60" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,svelte,expo&perline=3" width="180" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,fiber,mongodb,postgres&perline=4" height="60" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,fiber,mongodb,postgres&perline=4" width="240" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,n8n,git,cloudflare,linux&perline=5" height="60" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,n8n,git,cloudflare,ubuntu&perline=5" width="300" />
 </p>
 
 <h2 align="center">📊 Activitys</h2>
@@ -53,7 +53,7 @@
     />
     <!-- Light Mode -->
     <img 
-      height="180em" 
+      height="200em" 
       src="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&hide_border=true&title_color=2C9AB7&icon_color=2C9AB7&text_color=2C9AB7&bg_color=00000000&ring_color=2C9AB7&card_width=495" 
       style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
     />
@@ -66,7 +66,7 @@
     />
     <!-- Light Mode -->
     <img 
-      height="180em" 
+      height="200em" 
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=2C9AB7&text_color=2C9AB7" 
       style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
     />
