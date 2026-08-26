@@ -5,10 +5,28 @@
     style="width:400px; height:400px; border-radius:50%;" 
   />
 </div>
-
 <blockquote>
-  <h3>💻 I’m a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
+  <h3>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
 </blockquote>
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" height="60" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs&perline=2" height="60" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,svelte,expo&perline=3" height="60" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hono,fiber,mongodb,postgres&perline=4" height="60" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zed,n8n,git,cloudflare,linux&perline=5" height="60" />
+</p>
+
 <p align="center">
   <picture>
     <!-- Dark Mode -->
