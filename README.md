@@ -78,11 +78,11 @@
   <!-- Dark Mode -->
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&color=39D353&bg_color=00000000"
+    srcset="https://git2050.vercel.app/graph?theme=dark"
   />
   <!-- Light Mode -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gazi2050&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=ffffff&color=2C9AB7&title_color=2C9AB7&line=2C9AB7&point=145C73&area_color=A0DDE6" 
+    src="https://git2050.vercel.app/graph?theme=light" 
     alt="Contribution Graph" 
     style="border-radius:12px; box-shadow:0px 4px 12px rgba(0,0,0,0.05);"
   />
