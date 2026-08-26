@@ -27,6 +27,11 @@
 <blockquote>
   <h3>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
 </blockquote>
+<div align="center">
+  <a href="https://daily.dev/gazi2050">
+    <img src="https://api.daily.dev/devcards/v2/f8k1mQfqC2SNA6K0HOs6B.png?type=wide&r=60u" width="652" alt="Gazi Nahian's Dev Card"/>
+  </a>
+</div>
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" width="60" />
