@@ -6,31 +6,19 @@
   />
   </a>
 </div>
-<p align="center">
-  <a href="mailto:gazinahian.dev@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/gazi_2050" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/gazi09/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="50" />
-  </a>
-</p>
+
+<div align="center">
+
+| Mail | LinkedIn | Daily.dev | X | LeetCode |
+|:----:|:--------:|:---------:|:-:|:--------:|
+| <a href="mailto:gazinahian.dev@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="60" /></a> | <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="60" /></a> | <a href="https://daily.dev/gazi2050" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" width="60" /></a> | <a href="https://x.com/gazi_2050" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="60" /></a> | <a href="https://leetcode.com/u/gazi09/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="60" /></a> |
+
+</div>
+
 <blockquote>
   <h3>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
 </blockquote>
-<div align="center">
-  <a href="https://daily.dev/gazi2050">
-    <img src="https://api.daily.dev/devcards/v2/f8k1mQfqC2SNA6K0HOs6B.png?type=wide&r=60u" width="652" alt="Gazi Nahian's Dev Card"/>
-  </a>
-</div>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" width="60" />
@@ -49,7 +37,6 @@
 </p>
 
 <h2 align="center">📊 Activitys</h2>
-
 <p align="center">
   <picture>
     <!-- Dark Mode -->
@@ -78,6 +65,7 @@
     />
   </picture>
 </p>
+
 <div align="center">
 <!-- Contribution Graph -->
 <picture>
