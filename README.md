@@ -5,6 +5,25 @@
     style="width:400px; height:400px; border-radius:50%;" 
   />
 </div>
+
+<p align="center">
+  <a href="mailto:gazinahian.dev@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="65" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="65" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/gazi_2050" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" height="65" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/gazi09/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height="65" />
+  </a>
+</p>
+
 <blockquote>
   <h3>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
 </blockquote>
