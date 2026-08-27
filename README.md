@@ -19,7 +19,7 @@
   <h3>💻 I'm a Full Stack Developer (Backend-focused) building web and mobile apps. I like turning ideas into simple, clean, and reliable products by designing solid backend systems and clean APIs. Always curious and learning, I focus on clean code, learning by building, and experimenting to make developer life easier.</h3>
 </blockquote>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><code>🛠️ Tech Stack</code></h2>
 
 <div align="center">
   
@@ -48,7 +48,7 @@
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=zed" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian" width="60" /> |
 </div>
 
-<h2 align="center">📊 Activitys</h2>
+<h2 align="center"><code>📊 Activitys</code></h2>
 <p align="center">
   <picture>
     <!-- Dark Mode -->
