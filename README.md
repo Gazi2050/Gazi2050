@@ -1,11 +1,3 @@
-<!-- <div align="center">
-  <a href="https://gazinahian.vercel.app" target="_blank">
-    <img 
-    src="https://files.catbox.moe/50vpgl.jpg" 
-    alt="Profile Image"
-  />
-  </a>
-</div> -->
 <h1 align="center">
   <a href="https://gazinahian.vercel.app" target="_blank">Gazi Nahian</a>
 </h1>
