@@ -32,9 +32,9 @@
 
 ### Backend
 
-| Express | Hono | Nest.js | GraphQL | Jest | MongoDB | Mongoose | PostgreSQL | Drizzle |
+| Fiber | Hono | Nest.js | GraphQL | Jest | MongoDB | Mongoose | PostgreSQL | Drizzle |
 |:-------:|:----:|:-------:|:-------:|:----:|:-------:|:--------:|:----------:|:-------:|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=hono" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=jest" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" width="60" /> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=fiber" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=hono" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=jest" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="60" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" width="60" /> |
 
 ### Others
 
