@@ -1,6 +1,6 @@
 <div align="center">
 
-# <a href="https://gazinahian.vercel.app" target="_blank">Gazi Nahian</a>
+# <a href="https://gazinahian.vercel.app" target="_blank"><code>Gazi Nahian</code></a>
 
 Backend-focused Full Stack Developer — building clean APIs, web & mobile apps.
 
