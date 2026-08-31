@@ -1,5 +1,4 @@
 <div align="center">
-
 <h1 align="center"><a href="https://gazinahian.vercel.app" target="_blank"><code>Gazi Nahian</code></a></h1>
 
 Backend-focused Full Stack Developer — building clean APIs, web & mobile apps.
@@ -9,7 +8,6 @@ Backend-focused Full Stack Developer — building clean APIs, web & mobile apps.
 | Mail | LinkedIn | Daily.dev | X | LeetCode |
 |:----:|:--------:|:---------:|:-:|:--------:|
 | <a href="mailto:gazinahian.dev@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" /></a> | <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" /></a> | <a href="https://daily.dev/gazi2050" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" width="50" /></a> | <a href="https://x.com/gazi_2050" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="50" /></a> | <a href="https://leetcode.com/u/gazi09/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="50" /></a> |
-
 </div>
 
 <br/>
