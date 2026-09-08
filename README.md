@@ -21,12 +21,12 @@ Backend-focused Full Stack Developer — building clean APIs, web & mobile apps.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=00000000&ring_color=39D353&card_width=420" />
-  <img src="https://github-stats-extended.vercel.app/api?username=Gazi2050&show_icons=true&hide_border=true&title_color=2C9AB7&icon_color=2C9AB7&text_color=2C9AB7&bg_color=00000000&ring_color=2C9AB7&card_width=420" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://git-status-2050.vercel.app/status?theme=dark" />
+  <img src="https://git-status-2050.vercel.app/status?theme=light" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=39D353&text_color=39D353&bg_color=00000000" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gazi2050&layout=compact&hide_border=true&title_color=2C9AB7&text_color=2C9AB7&bg_color=00000000" width="340" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://git-status-2050.vercel.app/status/languages?theme=dark" />
+  <img src="https://git-status-2050.vercel.app/status/languages?theme=light" />
 </picture>
 
 <br/><br/>
