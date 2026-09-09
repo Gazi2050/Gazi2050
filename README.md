@@ -21,12 +21,12 @@ Backend-focused Full Stack Developer — building clean APIs, web & mobile apps.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://git-status-2050.vercel.app/status?theme=dark&v=4" />
-  <img src="https://git-status-2050.vercel.app/status?theme=light&v=4" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://git-status-2050.vercel.app/status?theme=dark" />
+  <img src="https://git-status-2050.vercel.app/status?theme=light" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://git-status-2050.vercel.app/status/languages?theme=dark&v=4" />
-  <img src="https://git-status-2050.vercel.app/status/languages?theme=light&v=4" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://git-status-2050.vercel.app/status/languages?theme=dark" />
+  <img src="https://git-status-2050.vercel.app/status/languages?theme=light" />
 </picture>
 
 <br/><br/>
