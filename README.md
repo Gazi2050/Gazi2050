@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"><a href="https://gazinahian.vercel.app" target="_blank"><code>Gazi Nahian</code></a></h1>
 
-Backend-focused Full Stack Developer — building clean APIs, web & mobile apps.
+Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 
 <br/>
 
