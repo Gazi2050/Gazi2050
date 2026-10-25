@@ -12,7 +12,7 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 
 <br/>
 
-<h3 align="center">💻 I like turning ideas into simple, clean, and reliable products — designing solid backend systems, clean APIs, and experimenting to make developer life easier.</h3>
+<h3 align="center">I like turning ideas into simple, clean, and reliable products — designing solid backend systems, clean APIs, and experimenting to make developer life easier.</h3>
 
 <br/>
 
@@ -35,6 +35,203 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
   <source media="(prefers-color-scheme: dark)" srcset="https://git2050.vercel.app/graph?theme=dark" />
   <img src="https://git2050.vercel.app/graph?theme=light" />
 </picture>
+
+</div>
+
+<br/>
+
+<h1 align="center"><code>Projects</code></h1>
+
+<h2 align="center">Web</h2>
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="center">Type</th>
+      <th align="left">Description</th>
+      <th align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/PocketBot"><b>PocketBot</b></a></td>
+      <td align="center">AI Platform</td>
+      <td>An AI chat platform that puts many top models in one conversation, with web search and long-term memory.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,clerk,tailwindcss&perline=4" width="200" alt="PocketBot stack" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/Drop"><b>Drop</b></a></td>
+      <td align="center">File Storage</td>
+      <td>A cloud drive for uploading, organizing, and sharing files through secure public links.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,appwrite,tailwindcss&perline=4" width="200" alt="Drop stack" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/Resumake"><b>Resumake</b></a></td>
+      <td align="center">Resume Builder</td>
+      <td>A local-first builder for one-page resumes, exported as a pixel-perfect PDF or PNG.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,tailwindcss&perline=3" width="120" alt="Resumake stack" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/toolkit"><b>toolkit</b></a></td>
+      <td align="center">Developer Tools</td>
+      <td>Free browser-based developer utilities, including a JSON viewer, regex tester, and OCR extractor.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,typescript,tailwindcss&perline=3" width="120" alt="toolkit stack" /></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">App</h2>
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="center">Platform</th>
+      <th align="center">Type</th>
+      <th align="left">Description</th>
+      <th align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/Hex"><b>Hex</b></a></td>
+      <td align="center">Mobile</td>
+      <td align="center">Habit Tracker</td>
+      <td>An offline-first habit tracker with streaks, priorities, and progress charts. No account needed.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo,reactnative,typescript,windicss&perline=4" width="200" alt="Hex stack" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/rex"><b>Rex</b></a></td>
+      <td align="center">Desktop</td>
+      <td align="center">Workspace Terminal</td>
+      <td>A lightweight terminal with a code editor, git graph, and web preview in one native app.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,rust,typescript,tailwindcss&perline=4" width="200" alt="Rex stack" /></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">CLI</h2>
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="center">Type</th>
+      <th align="left">Description</th>
+      <th align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/gli"><b>gli</b></a></td>
+      <td align="center">Git Tool</td>
+      <td>A Git wrapper that generates AI commit messages and simplifies branch and history workflows.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=go,git&perline=2" width="80" alt="gli stack" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/cleanup"><b>cleanup</b></a></td>
+      <td align="center">System Tool</td>
+      <td>An interactive cleaner for Debian-based Linux that clears caches, logs, and apt packages.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=go,linux&perline=2" width="80" alt="cleanup stack" /></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">Package</h2>
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="center">Type</th>
+      <th align="left">Description</th>
+      <th align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/native-craft/native-toast"><b>native-toast</b></a></td>
+      <td align="center">Toast Library</td>
+      <td>A zero-dependency toast library for React Native and Expo, similar to react-hot-toast.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,typescript&perline=3" width="120" alt="native-toast stack" /></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">Language</h2>
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="center">Type</th>
+      <th align="left">Description</th>
+      <th align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Gazi2050/Luma"><b>Luma</b></a></td>
+      <td align="center">Interpreted Language</td>
+      <td>A minimal interpreted programming language built from scratch in Go, with a clean syntax.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" width="40" alt="Luma stack" /></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">Open Source</h2>
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Contribution</th>
+      <th align="center">Type</th>
+      <th align="left">Description</th>
+      <th align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Ripple-TS/ripple/pull/548"><b>Ripple PR #548</b></a></td>
+      <td align="center">TypeScript Framework</td>
+      <td>A contribution to Ripple, an open-source TypeScript framework.</td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&perline=1" width="40" alt="Ripple stack" /></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
