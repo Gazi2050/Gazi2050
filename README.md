@@ -60,13 +60,13 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td><a href="https://github.com/Gazi2050/PocketBot"><b>PocketBot</b></a></td>
       <td align="center">AI Platform</td>
       <td>An AI chat platform that puts many top models in one conversation, with web search and long-term memory.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,clerk,tailwindcss&perline=4" width="200" alt="PocketBot stack" /></td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,clerk,tailwindcss&perline=4" width="230" alt="PocketBot stack" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/Drop"><b>Drop</b></a></td>
       <td align="center">File Storage</td>
       <td>A cloud drive for uploading, organizing, and sharing files through secure public links.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,appwrite,tailwindcss&perline=4" width="200" alt="Drop stack" /></td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,appwrite,tailwindcss&perline=4" width="230" alt="Drop stack" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/Resumake"><b>Resumake</b></a></td>
@@ -105,14 +105,14 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td align="center">Mobile</td>
       <td align="center">Habit Tracker</td>
       <td>An offline-first habit tracker with streaks, priorities, and progress charts. No account needed.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo,reactnative,typescript,windicss&perline=4" width="200" alt="Hex stack" /></td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo,reactnative,typescript,windicss&perline=4" width="230" alt="Hex stack" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/rex"><b>Rex</b></a></td>
       <td align="center">Desktop</td>
       <td align="center">Workspace Terminal</td>
       <td>A lightweight terminal with a code editor, git graph, and web preview in one native app.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,rust,typescript,tailwindcss&perline=4" width="200" alt="Rex stack" /></td>
+      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,rust,typescript,tailwindcss&perline=4" width="230" alt="Rex stack" /></td>
     </tr>
   </tbody>
 </table>
