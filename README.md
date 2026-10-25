@@ -85,8 +85,6 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 
 </div>
 
-<br/>
-
 <h2 align="center">App</h2>
 
 <div align="center">
@@ -121,8 +119,6 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 
 </div>
 
-<br/>
-
 <h2 align="center">CLI</h2>
 
 <div align="center">
@@ -154,8 +150,6 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 
 </div>
 
-<br/>
-
 <h2 align="center">Package</h2>
 
 <div align="center">
@@ -180,8 +174,6 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 </table>
 
 </div>
-
-<br/>
 
 <h2 align="center">Language</h2>
 
@@ -208,8 +200,6 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 
 </div>
 
-<br/>
-
 <h2 align="center">Open Source</h2>
 
 <div align="center">
@@ -234,5 +224,3 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 </table>
 
 </div>
-
-<br/>
