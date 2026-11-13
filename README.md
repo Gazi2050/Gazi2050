@@ -7,7 +7,7 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
 
 | Mail | LinkedIn | Daily.dev | X | LeetCode |
 |:----:|:--------:|:---------:|:-:|:--------:|
-| <a href="mailto:gazinahian.dev@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="50" /></a> | <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="50" /></a> | <a href="https://daily.dev/gazi2050" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" width="50" /></a> | <a href="https://x.com/gazi_2050" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" width="50" /></a> | <a href="https://leetcode.com/u/gazi09/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="50" /></a> |
+| <a href="mailto:gazinahian.dev@gmail.com"><img src="https://files.catbox.moe/pb704j.svg" width="50" /></a> | <a href="https://www.linkedin.com/in/gazi-nahian/" target="_blank"><img src="https://files.catbox.moe/ze0x7k.svg" width="50" /></a> | <a href="https://daily.dev/gazi2050" target="_blank"><img src="https://files.catbox.moe/1m57ky.svg" width="50" /></a> | <a href="https://x.com/gazi_2050" target="_blank"><img src="https://files.catbox.moe/yhz3zi.svg" width="50" /></a> | <a href="https://leetcode.com/u/gazi09/" target="_blank"><img src="https://files.catbox.moe/1l171t.svg" width="50" /></a> |
 </div>
 
 <br/>
