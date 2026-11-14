@@ -60,25 +60,25 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td><a href="https://github.com/Gazi2050/PocketBot"><b>PocketBot</b></a></td>
       <td align="center">AI Platform</td>
       <td>An open-source AI platform you can use live, self-host, and shape to your needs.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,clerk,tailwindcss&perline=4" width="200" alt="PocketBot stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/rco0xb.svg" width="40" alt="Next.js" /> <img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /> <img src="https://files.catbox.moe/iy2lyj.svg" width="40" alt="Clerk" /> <img src="https://files.catbox.moe/jsuy4i.svg" width="40" alt="Tailwind CSS" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/Drop"><b>Drop</b></a></td>
       <td align="center">File Storage</td>
       <td>A simple, modern cloud drive for securely uploading, organizing, and sharing files.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,appwrite,tailwindcss&perline=4" width="200" alt="Drop stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/rco0xb.svg" width="40" alt="Next.js" /> <img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /> <img src="https://files.catbox.moe/7cmbzk.svg" width="40" alt="Appwrite" /> <img src="https://files.catbox.moe/jsuy4i.svg" width="40" alt="Tailwind CSS" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/Resumake"><b>Resumake</b></a></td>
       <td align="center">Resume Builder</td>
       <td>A local-first resume builder that exports a clean one-page resume as a pixel-perfect PDF or PNG.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,tailwindcss&perline=3" width="120" alt="Resumake stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/rco0xb.svg" width="40" alt="Next.js" /> <img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /> <img src="https://files.catbox.moe/jsuy4i.svg" width="40" alt="Tailwind CSS" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/toolkit"><b>toolkit</b></a></td>
       <td align="center">Developer Tools</td>
       <td>A free, no sign-up toolkit of developer utilities, including JSON formatting, regex testing, and OCR.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=svelte,typescript,tailwindcss&perline=3" width="120" alt="toolkit stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/5dofh0.svg" width="40" alt="Svelte" /> <img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /> <img src="https://files.catbox.moe/jsuy4i.svg" width="40" alt="Tailwind CSS" /></td>
     </tr>
   </tbody>
 </table>
@@ -105,14 +105,14 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td align="center">Mobile</td>
       <td align="center">Habit Tracker</td>
       <td>An open-source habit tracker with streaks and priority pins, local-first with no account.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo,reactnative,typescript,windicss&perline=4" width="200" alt="Hex stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/a3s08z.svg" width="40" alt="Expo" /> <img src="https://files.catbox.moe/lqzng6.svg" width="40" alt="React Native" /> <img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /> <img src="https://files.catbox.moe/m3zjtg.svg" width="40" alt="WindiCSS" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/rex"><b>Rex</b></a></td>
       <td align="center">Desktop</td>
       <td align="center">Workspace Terminal</td>
       <td>A lightweight workspace terminal with a GPU-accelerated terminal, code editor, and git tools.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tauri,rust,typescript,tailwindcss&perline=4" width="200" alt="Rex stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/o2tto7.svg" width="40" alt="Tauri" /> <img src="https://files.catbox.moe/12cs1x.svg" width="40" alt="Rust" /> <img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /> <img src="https://files.catbox.moe/jsuy4i.svg" width="40" alt="Tailwind CSS" /></td>
     </tr>
   </tbody>
 </table>
@@ -137,13 +137,13 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td><a href="https://github.com/Gazi2050/gli"><b>gli</b></a></td>
       <td align="center">Git Tool</td>
       <td>A lightweight Git wrapper that simplifies complex workflows into intuitive terminal commands.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=go,git&perline=2" width="80" alt="gli stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/dw11ro.svg" width="40" alt="Go" /> <img src="https://files.catbox.moe/jrqkue.svg" width="40" alt="Git" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Gazi2050/cleanup"><b>cleanup</b></a></td>
       <td align="center">System Tool</td>
       <td>An interactive Linux cleanup TUI that simplifies system maintenance with smart sudo handling and live progress.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=go,linux&perline=2" width="80" alt="cleanup stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/dw11ro.svg" width="40" alt="Go" /> <img src="https://files.catbox.moe/4ry1j4.svg" width="40" alt="Linux" /></td>
     </tr>
   </tbody>
 </table>
@@ -168,7 +168,7 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td><a href="https://github.com/native-craft/native-toast"><b>native-toast</b></a></td>
       <td align="center">Toast Library</td>
       <td>Hot toast notifications for React Native & Expo with zero dependencies and theme support.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,typescript&perline=3" width="120" alt="native-toast stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/lqzng6.svg" width="40" alt="React Native" /> <img src="https://files.catbox.moe/a3s08z.svg" width="40" alt="Expo" /> <img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /></td>
     </tr>
   </tbody>
 </table>
@@ -193,7 +193,7 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td><a href="https://github.com/Gazi2050/Luma"><b>Luma</b></a></td>
       <td align="center">Interpreted Language</td>
       <td>A minimal interpreted programming language built from scratch in Go, with a clean and simple syntax.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=go&perline=1" width="40" alt="Luma stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/dw11ro.svg" width="40" alt="Go" /></td>
     </tr>
   </tbody>
 </table>
@@ -218,7 +218,7 @@ Backend-focused Full Stack Engineer — building clean APIs, web & mobile apps.
       <td><a href="https://github.com/Ripple-TS/ripple/pull/548"><b>Ripple PR #548</b></a></td>
       <td align="center">TypeScript Framework</td>
       <td>An open-source contribution to Ripple, a TypeScript framework.</td>
-      <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&perline=1" width="40" alt="Ripple stack" /></td>
+      <td align="center"><img src="https://files.catbox.moe/ht14bc.svg" width="40" alt="TypeScript" /></td>
     </tr>
   </tbody>
 </table>
